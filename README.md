@@ -3,7 +3,7 @@
 
 HI, I'M
 ananya karn.
-i build scalable cloud systems.
+i build scalable cloud systems and ML-based models.
 
 I'm a computer science undergraduate and engineer focused on building robust, high-performance systems. Currently, I'm deep-diving into Cloud Infrastructure, DevOps automation, and Machine Learning workflows.
 
