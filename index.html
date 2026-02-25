@@ -86,13 +86,13 @@
         </div>
 
         <div class="projects-list">
-          <!-- Project 1: Distributed Analytics -->
+          <!-- Project: ML & Cloud-Based Turbulence Prediction -->
           <article class="project-item expandable">
             <div class="project-main-info">
               <div class="project-title-row">
-                <h3 class="text-accent">Distributed Analytics Engine</h3>
+                <h3 class="text-accent">ML & Cloud-Based Turbulence Prediction System</h3>
                 <div class="project-links">
-                  <a href="#" target="_blank" title="GitHub">
+                  <a href="YOUR_GITHUB_LINK" target="_blank" title="GitHub">
                     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
                       stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                       <path
@@ -102,26 +102,44 @@
                   </a>
                 </div>
               </div>
-              <p class="project-one-liner text-secondary">A distributed streaming pipeline for IoT sensor data
-                processing.</p>
+
+              <p class="project-one-liner text-secondary">
+                Satellite-driven ML pipeline deployed on AWS for real-time turbulence risk inference.
+              </p>
+
               <div class="project-tech-row text-mono">
-                <span>Go</span>
-                <span>Kafka</span>
-                <span>AWS EKS</span>
+                <span>Python</span>
+                <span>scikit-learn</span>
+                <span>Docker</span>
+                <span>AWS EC2</span>
+                <span>Amazon S3</span>
+                <span>Flask</span>
               </div>
             </div>
+
             <div class="project-details-pane">
               <div class="details-grid">
+
                 <div class="details-section">
                   <h4>The Problem</h4>
-                  <p>Processing real-time data from 10k+ IoT sensors while maintaining strict consistency and fault
-                    tolerance in a distributed environment.</p>
+                  <p>
+                    Traditional turbulence detection methods are reactive and radar-dependent,
+                    making Clear-Air Turbulence (CAT) difficult to anticipate. Processing large-scale
+                    satellite HDF5 datasets (60M+ rows) for ML modeling while ensuring scalable,
+                    low-latency cloud inference required a robust data engineering and deployment strategy.
+                  </p>
                 </div>
+
                 <div class="details-section">
                   <h4>Impact</h4>
-                  <p>Reduced data ingestion latency by 40% and improved system reliability through automated
-                    infrastructure scaling on EKS.</p>
+                  <p>
+                    Built an end-to-end satellite data pipeline (MOSDAC L2B → feature engineering → ML training)
+                    and deployed a Dockerized Random Forest model on AWS EC2 with S3-backed model artifacts.
+                    Enabled real-time REST API inference via Flask + Gunicorn, demonstrating a scalable
+                    ML-cloud integration prototype for aviation safety analytics.
+                  </p>
                 </div>
+
               </div>
             </div>
           </article>
