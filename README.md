@@ -3,11 +3,6 @@
   
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:0a192f&height=230&section=header&text=Ananya%20Karn&fontSize=52&fontColor=64ffda&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AI%2FML%20Researcher&descSize=18&descAlignY=55&descColor=8892b0&animation=fadeIn)
 
-  <!-- Typing Animation -->
-  <a href="https://kripinya.github.io/kripinya/">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=Portfolio%3A+kripinya.github.io%2Fkripinya;IEEE+ICADS+2026+Published+Researcher;Multi-Cloud+FinOps+Cost+Governance+%40+IBM;200%2B+LeetCode+Problems+Solved+in+Java" alt="Typing SVG" />
-  </a>
-
 </div>
 
 <br>
@@ -20,7 +15,6 @@ Final-year **B.Tech Computer Science (Cloud Computing & Virtualization Technolog
 
 Specializing in the intersection of **Cloud Infrastructure, DevOps Automation, and Applied Machine Learning (AI/ML)**. Published researcher in aerospace ML (*IEEE ICADS 2026*). Currently collaborating with **IBM** on a Multi-Cloud FinOps platform, with prior experience as an Analytics Intern at **G Smart Investor LLP**.
 
-* **Portfolio Website**: [kripinya.github.io/kripinya](https://kripinya.github.io/kripinya/)
 * **Primary Stack**: Java, Python, AWS, DevOps, Docker, Kubernetes, SQL, Causal AI/ML, Linux
 
 ---
@@ -125,11 +119,14 @@ Specializing in the intersection of **Cloud Infrastructure, DevOps Automation, a
 
 ---
 
-## LeetCode Heatmap
+## LeetCode Contributions & Stats
 
 <div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/LeetCode_Submissions-200%2B_Problems_Solved-64FFDA?style=for-the-badge&logo=leetcode&logoColor=0a192f&labelColor=112240" alt="LeetCode Submissions Badge"/>
+  </p>
   <a href="https://leetcode.com/u/ananyakarn_kripinya/">
-    <img src="https://leetcard.jacoblin.cool/ananyakarn_kripinya?theme=dark&font=Courier%20Prime&ext=heatmap&border=64ffda&background=0a192f&hide=ranking,solved,level,skills,total-solved-text,easy-solved-count,medium-solved-count,hard-solved-count,contest" alt="LeetCode Contribution Grid" width="100%"/>
+    <img src="https://leetcard.jacoblin.cool/ananyakarn_kripinya?theme=dark&font=Courier%20Prime&ext=heatmap&border=64ffda&background=0a192f" alt="LeetCode Heatmap Grid" width="100%"/>
   </a>
 </div>
 
@@ -140,7 +137,6 @@ Specializing in the intersection of **Cloud Infrastructure, DevOps Automation, a
 <div align="center">
 
 <p>
-  <a href="https://kripinya.github.io/kripinya/"><img src="https://img.shields.io/badge/Live_Portfolio-64FFDA?style=for-the-badge&logo=googlechrome&logoColor=0a192f&labelColor=112240" alt="Live Portfolio"/></a>
   <a href="https://www.linkedin.com/in/kripinya/"><img src="https://img.shields.io/badge/LinkedIn-64FFDA?style=for-the-badge&logo=linkedin&logoColor=0a192f&labelColor=112240" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/ananyakarn_kripinya/"><img src="https://img.shields.io/badge/LeetCode-64FFDA?style=for-the-badge&logo=leetcode&logoColor=0a192f&labelColor=112240" alt="LeetCode"/></a>
   <a href="mailto:kripinya@gmail.com"><img src="https://img.shields.io/badge/Email-64FFDA?style=for-the-badge&logo=gmail&logoColor=0a192f&labelColor=112240" alt="Email"/></a>
