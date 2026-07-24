@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Ananya Karn</h1>
-  <h3>Cloud & DevOps Engineer | AI/ML Researcher</h3>
+  <h3>Cloud | DevOps | AIML</h3>
   <p>
     <a href="https://kripinya.github.io/kripinya/"><strong>View Live Portfolio</strong></a>
   </p>
@@ -12,7 +12,7 @@
 
 ## Executive Summary
 
-Final-year **B.Tech Computer Science (Cloud Computing & Virtualization Technology)** undergraduate at **UPES Dehradun** (Class of 2027).
+Final-year **B.Tech Computer Science (Cloud Computing & Virtualization Technology)** undergraduate at **UPES Dehradun** (2023-2027).
 
 Specializing in the intersection of **Cloud Infrastructure, DevOps Automation, and Applied Machine Learning (AI/ML)**. Published researcher in aerospace ML (*IEEE ICADS 2026*). Currently collaborating with **IBM** on a Multi-Cloud FinOps platform, with prior experience as an Analytics Intern at **G Smart Investor LLP**.
 
@@ -43,7 +43,7 @@ Specializing in the intersection of **Cloud Infrastructure, DevOps Automation, a
 
 ---
 
-## Featured Engineering Projects
+## Projects
 
 <table>
   <thead>
