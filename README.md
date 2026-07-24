@@ -80,10 +80,10 @@ Specializing in the intersection of **Cloud Infrastructure, DevOps Automation, a
       <td><a href="https://github.com/kripinya/serverlessMalwareScanner.git">Repository</a></td>
     </tr>
     <tr>
-      <td><b>Autonomous Crowd Flow Balancer</b></td>
+      <td><b>Know Your Footprints</b></td>
       <td>AI-Driven Systems</td>
       <td><code>Claude Code</code> <code>Prompt Engineering</code></td>
-      <td><a href="https://github.com/kripinya/Autonomous-Crowd-Flow-Balancing-System.git">Repository</a></td>
+      <td><a href="https://github.com/kripinya/know-your-footprints">Repository</a></td>
     </tr>
     <tr>
       <td><b>Road Pothole Detection System</b></td>
