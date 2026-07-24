@@ -1,25 +1,12 @@
 <!-- Header Banner -->
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:0a192f&height=230&section=header&text=Ananya%20Karn&fontSize=52&fontColor=64ffda&fontAlignY=35&desc=Cloud%20Engineer%20%7C%20ML%20Researcher%20%7C%20Problem%20Solver&descSize=18&descAlignY=55&descColor=8892b0&animation=fadeIn)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:0a192f&height=230&section=header&text=Ananya%20Karn&fontSize=52&fontColor=64ffda&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AI%2FML%20Researcher&descSize=18&descAlignY=55&descColor=8892b0&animation=fadeIn)
 
   <!-- Typing Animation -->
   <a href="https://kripinya.github.io/kripinya/">
     <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=Portfolio%3A+kripinya.github.io%2Fkripinya;IEEE+ICADS+2026+Published+Researcher;Multi-Cloud+FinOps+Cost+Governance+%40+IBM;200%2B+LeetCode+Problems+Solved+in+Java" alt="Typing SVG" />
   </a>
-
-  <br>
-
-  <!-- Social & Portfolio Badges in Mint & Navy Theme -->
-  <p>
-    <a href="https://kripinya.github.io/kripinya/"><img src="https://img.shields.io/badge/Live_Portfolio-64FFDA?style=for-the-badge&logo=googlechrome&logoColor=0a192f&labelColor=112240" alt="Live Portfolio"/></a>
-    <a href="https://www.linkedin.com/in/kripinya/"><img src="https://img.shields.io/badge/LinkedIn-64FFDA?style=for-the-badge&logo=linkedin&logoColor=0a192f&labelColor=112240" alt="LinkedIn"/></a>
-    <a href="https://leetcode.com/u/ananyakarn_kripinya/"><img src="https://img.shields.io/badge/LeetCode-64FFDA?style=for-the-badge&logo=leetcode&logoColor=0a192f&labelColor=112240" alt="LeetCode"/></a>
-    <a href="mailto:kripinya@gmail.com"><img src="https://img.shields.io/badge/Email-64FFDA?style=for-the-badge&logo=gmail&logoColor=0a192f&labelColor=112240" alt="Email"/></a>
-    <a href="https://github.com/kripinya"><img src="https://img.shields.io/badge/GitHub-64FFDA?style=for-the-badge&logo=github&logoColor=0a192f&labelColor=112240" alt="GitHub"/></a>
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=kripinya&style=for-the-badge&color=64ffda&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -29,12 +16,12 @@
 
 ## Executive Summary
 
-Final-year **B.Tech Computer Science (Cloud Computing & Virtualization Technology)** undergraduate at **UPES Dehradun** (Class of 2027 · **8.01 CGPA**).
+Final-year **B.Tech Computer Science (Cloud Computing & Virtualization Technology)** undergraduate at **UPES Dehradun** (Class of 2027).
 
-Specializing in the intersection of **Cloud Infrastructure, DevOps Automation, and Applied Machine Learning**. Published researcher in aerospace ML (*IEEE ICADS 2026*). Currently collaborating with **IBM** on a Multi-Cloud FinOps platform, with prior experience as an Analytics Intern at **G Smart Investor LLP**.
+Specializing in the intersection of **Cloud Infrastructure, DevOps Automation, and Applied Machine Learning (AI/ML)**. Published researcher in aerospace ML (*IEEE ICADS 2026*). Currently collaborating with **IBM** on a Multi-Cloud FinOps platform, with prior experience as an Analytics Intern at **G Smart Investor LLP**.
 
 * **Portfolio Website**: [kripinya.github.io/kripinya](https://kripinya.github.io/kripinya/)
-* **Primary Stack**: Java, Python, AWS, Docker, Kubernetes, SQL, Causal AI, Linux
+* **Primary Stack**: Java, Python, AWS, DevOps, Docker, Kubernetes, SQL, Causal AI/ML, Linux
 
 ---
 
@@ -81,7 +68,7 @@ Specializing in the intersection of **Cloud Infrastructure, DevOps Automation, a
     </tr>
     <tr>
       <td><b>Self-Healing Cloud / Niramay</b></td>
-      <td>Cloud Infrastructure</td>
+      <td>Cloud Infrastructure & DevOps</td>
       <td><code>Kubernetes</code> <code>Docker</code> <code>Causal AI</code></td>
       <td><a href="https://github.com/self-healing-cloud/healing-layer.git">Healing Layer</a> · <a href="https://github.com/kripinya/niramay.git">Niramay</a></td>
     </tr>
@@ -105,7 +92,7 @@ Specializing in the intersection of **Cloud Infrastructure, DevOps Automation, a
     </tr>
     <tr>
       <td><b>Road Pothole Detection System</b></td>
-      <td>Computer Vision</td>
+      <td>Computer Vision / AI</td>
       <td><code>Python</code> <code>OpenCV</code> <code>ML</code></td>
       <td><a href="https://github.com/kripinya/road-pothole-detection-system.git">Repository</a></td>
     </tr>
@@ -128,14 +115,10 @@ Specializing in the intersection of **Cloud Infrastructure, DevOps Automation, a
 
 ---
 
-## Analytics & Problem Solving
+## GitHub Analytics
 
 <div align="center">
-
-| LeetCode Statistics | GitHub Activity Summary |
-| :---: | :---: |
-| <a href="https://leetcode.com/u/ananyakarn_kripinya/"><img src="https://leetcard.jacoblin.cool/ananyakarn_kripinya?theme=dark&font=Courier%20Prime&ext=heatmap&border=64ffda&background=0a192f" width="380"/></a> | <img src="https://streak-stats.demolab.com/?user=kripinya&theme=dark&background=0a192f&border=112240&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&currStreakNum=ccd6f6&sideNums=ccd6f6" width="380"/> |
-
+  <img src="https://streak-stats.demolab.com/?user=kripinya&theme=dark&background=0a192f&border=112240&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&currStreakNum=ccd6f6&sideNums=ccd6f6" width="600"/>
 </div>
 
 <br>
@@ -146,21 +129,29 @@ Specializing in the intersection of **Cloud Infrastructure, DevOps Automation, a
 
 ---
 
+## LeetCode Stats
+
+<div align="center">
+  <a href="https://leetcode.com/u/ananyakarn_kripinya/">
+    <img src="https://leetcard.jacoblin.cool/ananyakarn_kripinya?theme=dark&font=Courier%20Prime&ext=heatmap&border=64ffda&background=0a192f" width="500"/>
+  </a>
+</div>
+
+---
+
 ## Contact & Connect
 
 <div align="center">
 
-<a href="https://kripinya.github.io/kripinya/">
-  <img src="https://img.shields.io/badge/Visit_My_Portfolio-64FFDA?style=for-the-badge&logo=googlechrome&logoColor=0a192f&labelColor=112240" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/kripinya/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-64FFDA?style=for-the-badge&logo=linkedin&logoColor=0a192f&labelColor=112240" alt="LinkedIn"/>
-</a>
-<a href="mailto:kripinya@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-64FFDA?style=for-the-badge&logo=gmail&logoColor=0a192f&labelColor=112240" alt="Email"/>
-</a>
+<p>
+  <a href="https://kripinya.github.io/kripinya/"><img src="https://img.shields.io/badge/Live_Portfolio-64FFDA?style=for-the-badge&logo=googlechrome&logoColor=0a192f&labelColor=112240" alt="Live Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/kripinya/"><img src="https://img.shields.io/badge/LinkedIn-64FFDA?style=for-the-badge&logo=linkedin&logoColor=0a192f&labelColor=112240" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/ananyakarn_kripinya/"><img src="https://img.shields.io/badge/LeetCode-64FFDA?style=for-the-badge&logo=leetcode&logoColor=0a192f&labelColor=112240" alt="LeetCode"/></a>
+  <a href="mailto:kripinya@gmail.com"><img src="https://img.shields.io/badge/Email-64FFDA?style=for-the-badge&logo=gmail&logoColor=0a192f&labelColor=112240" alt="Email"/></a>
+  <a href="https://github.com/kripinya"><img src="https://img.shields.io/badge/GitHub-64FFDA?style=for-the-badge&logo=github&logoColor=0a192f&labelColor=112240" alt="GitHub"/></a>
+</p>
 
-<br><br>
+<br>
 
 ```
 Built with precision.
