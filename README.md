@@ -83,7 +83,7 @@ Specializing in the intersection of **Cloud Infrastructure, DevOps Automation, a
       <td><b>Know Your Footprints</b></td>
       <td>AI-Driven Systems</td>
       <td><code>Claude Code</code> <code>Prompt Engineering</code></td>
-      <td><a href="https://github.com/kripinya/know-your-footprints">Repository</a></td>
+      <td><a href="https://github.com/kripinya/know-your-footprints">Repository</a> · <a href="https://know-your-footprints.vercel.app">Live Demo</a></td>
     </tr>
     <tr>
       <td><b>Road Pothole Detection System</b></td>

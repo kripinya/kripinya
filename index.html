@@ -170,48 +170,83 @@
           <h2>Technical Skills</h2>
         </div>
 
-        <ul class="skills-list" style="grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));">
-          <li>Java</li>
-          <li>Python</li>
-          <li>SQL</li>
-          <li>Trees</li>
-          <li>Dynamic Programming</li>
-          <li>Heaps</li>
-          <li>Backtracking</li>
-          <li>Recursion</li>
-          <li>AWS (EC2, S3, IAM, Lambda, VPC)</li>
-          <li>CloudWatch</li>
-          <li>Cost Explorer</li>
-          <li>Azure Cost Management</li>
-          <li>GCP Billing API</li>
-          <li>Serverless</li>
-          <li>Docker</li>
-          <li>Kubernetes</li>
-          <li>CI/CD</li>
-          <li>Git</li>
-          <li>Linux</li>
-          <li>OpenTelemetry</li>
-          <li>Redis</li>
-          <li>Random Forest</li>
-          <li>XGBoost</li>
-          <li>Isolation Forest</li>
-          <li>Feature Engineering</li>
-          <li>Model Evaluation</li>
-          <li>Flask (REST APIs)</li>
-          <li>Multi-Cloud API Integration</li>
-          <li>Claude Code</li>
-          <li>Prompt Engineering</li>
-          <li>AI Workflows</li>
-          <li>Building projects with AI</li>
-          <li>Operating Systems</li>
-          <li>Computer Networks</li>
-          <li>DBMS</li>
-          <li>OOP</li>
-          <li>System Design</li>
-          <li>AWS Cloud Foundations</li>
-          <li>AWS Cloud Architecture</li>
-          <li>AWS Cloud Deployment Models</li>
-        </ul>
+        <div class="skills-categories-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 40px 20px;">
+          
+          <div class="skill-category">
+            <h3 style="color: var(--text-light); margin-bottom: 15px; font-size: 1.1rem; border-bottom: 1px solid var(--border-color); padding-bottom: 8px;">Languages</h3>
+            <ul class="skills-list" style="display: flex; flex-direction: column; gap: 10px; padding-left: 0; margin-top: 0;">
+              <li>Java</li>
+              <li>Python</li>
+              <li>SQL</li>
+            </ul>
+          </div>
+
+          <div class="skill-category">
+            <h3 style="color: var(--text-light); margin-bottom: 15px; font-size: 1.1rem; border-bottom: 1px solid var(--border-color); padding-bottom: 8px;">Data Structures & Algorithms</h3>
+            <ul class="skills-list" style="display: flex; flex-direction: column; gap: 10px; padding-left: 0; margin-top: 0;">
+              <li>Trees</li>
+              <li>Dynamic Programming</li>
+              <li>Heaps</li>
+              <li>Backtracking</li>
+              <li>Recursion</li>
+            </ul>
+          </div>
+
+          <div class="skill-category">
+            <h3 style="color: var(--text-light); margin-bottom: 15px; font-size: 1.1rem; border-bottom: 1px solid var(--border-color); padding-bottom: 8px;">Cloud Platforms</h3>
+            <ul class="skills-list" style="display: flex; flex-direction: column; gap: 10px; padding-left: 0; margin-top: 0;">
+              <li>AWS (EC2, S3, IAM, Lambda, VPC)</li>
+              <li>CloudWatch & Cost Explorer</li>
+              <li>Serverless</li>
+              <li>AWS Cloud Foundations</li>
+              <li>AWS Cloud Architecture & Deployment</li>
+            </ul>
+          </div>
+
+          <div class="skill-category">
+            <h3 style="color: var(--text-light); margin-bottom: 15px; font-size: 1.1rem; border-bottom: 1px solid var(--border-color); padding-bottom: 8px;">DevOps & Tooling</h3>
+            <ul class="skills-list" style="display: flex; flex-direction: column; gap: 10px; padding-left: 0; margin-top: 0;">
+              <li>Docker & Kubernetes</li>
+              <li>CI/CD</li>
+              <li>Git & Linux</li>
+              <li>OpenTelemetry</li>
+              <li>Redis</li>
+            </ul>
+          </div>
+
+          <div class="skill-category">
+            <h3 style="color: var(--text-light); margin-bottom: 15px; font-size: 1.1rem; border-bottom: 1px solid var(--border-color); padding-bottom: 8px;">ML & AI</h3>
+            <ul class="skills-list" style="display: flex; flex-direction: column; gap: 10px; padding-left: 0; margin-top: 0;">
+              <li>Random Forest & XGBoost</li>
+              <li>Isolation Forest</li>
+              <li>Feature Engineering</li>
+              <li>Model Evaluation</li>
+            </ul>
+          </div>
+
+          <div class="skill-category">
+            <h3 style="color: var(--text-light); margin-bottom: 15px; font-size: 1.1rem; border-bottom: 1px solid var(--border-color); padding-bottom: 8px;">APIs & Workflows</h3>
+            <ul class="skills-list" style="display: flex; flex-direction: column; gap: 10px; padding-left: 0; margin-top: 0;">
+              <li>Flask (REST APIs)</li>
+              <li>Multi-Cloud API Integration</li>
+              <li>Claude Code & AI Workflows</li>
+              <li>Prompt Engineering</li>
+              <li>Building projects with AI</li>
+            </ul>
+          </div>
+
+          <div class="skill-category">
+            <h3 style="color: var(--text-light); margin-bottom: 15px; font-size: 1.1rem; border-bottom: 1px solid var(--border-color); padding-bottom: 8px;">CS Core</h3>
+            <ul class="skills-list" style="display: flex; flex-direction: column; gap: 10px; padding-left: 0; margin-top: 0;">
+              <li>Operating Systems</li>
+              <li>Computer Networks</li>
+              <li>DBMS</li>
+              <li>OOP</li>
+              <li>System Design</li>
+            </ul>
+          </div>
+
+        </div>
         <div style="margin-top: 30px;">
           <a href="https://leetcode.com/u/ananyakarn_kripinya/" target="_blank"
             class="skill-highlight text-mono inline-link">200+ problems on LeetCode</a>
@@ -506,8 +541,7 @@
               <div class="project-title-row">
                 <h3 class="text-accent">Know Your Footprints</h3>
                 <div class="project-links">
-                  <a href="https://github.com/kripinya/know-your-footprints" target="_blank"
-                    title="GitHub">
+                  <a href="https://github.com/kripinya/know-your-footprints" target="_blank" title="GitHub">
                     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
                       stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                       <path
@@ -521,7 +555,8 @@
                 <span class="status-badge completed">AI-Assisted Development</span>
               </div>
               <p class="project-one-liner text-secondary">
-                A footprint analysis and optimization platform architected entirely using autonomous AI agents and prompt engineering.
+                A footprint analysis and optimization platform architected entirely using autonomous AI agents and
+                prompt engineering.
               </p>
               <div class="project-tech-row text-mono">
                 <span>Claude Code</span>
@@ -533,7 +568,9 @@
               <div class="details-grid">
                 <div class="details-section">
                   <h4>Development Context</h4>
-                  <p>This project was built to demonstrate proficiency with advanced prompt engineering and AI-assisted workflows, utilizing autonomous coding agents like Claude Code to rapidly scaffold, build, and iterate on complex system logic.</p>
+                  <p>This project was built to demonstrate proficiency with advanced prompt engineering and AI-assisted
+                    workflows, utilizing autonomous coding agents like Claude Code to rapidly scaffold, build, and
+                    iterate on complex system logic.</p>
                 </div>
                 <div class="details-section">
                   <h4>What It Does</h4>
