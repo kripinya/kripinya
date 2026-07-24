@@ -115,25 +115,21 @@ Specializing in the intersection of **Cloud Infrastructure, DevOps Automation, a
 
 ---
 
-## GitHub Analytics
+## GitHub Contributions
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kripinya&theme=dark&background=0a192f&border=112240&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&currStreakNum=ccd6f6&sideNums=ccd6f6" width="600"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kripinya&bg_color=0a192f&color=64ffda&line=64ffda&point=64ffda&area=true&area_color=112240&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+  <a href="https://github.com/kripinya">
+    <img src="https://ghchart.rshah.org/64ffda/kripinya" alt="GitHub Contribution Grid" width="100%"/>
+  </a>
 </div>
 
 ---
 
-## LeetCode Stats
+## LeetCode Heatmap
 
 <div align="center">
   <a href="https://leetcode.com/u/ananyakarn_kripinya/">
-    <img src="https://leetcard.jacoblin.cool/ananyakarn_kripinya?theme=dark&font=Courier%20Prime&ext=heatmap&border=64ffda&background=0a192f" width="500"/>
+    <img src="https://leetcard.jacoblin.cool/ananyakarn_kripinya?theme=dark&font=Courier%20Prime&ext=heatmap&border=64ffda&background=0a192f&hide=ranking,solved,level,skills,total-solved-text,easy-solved-count,medium-solved-count,hard-solved-count,contest" alt="LeetCode Contribution Grid" width="100%"/>
   </a>
 </div>
 
