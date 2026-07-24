@@ -120,13 +120,12 @@ Specializing in the intersection of **Cloud Infrastructure, DevOps Automation, a
 
 ---
 
-## LeetCode Contributions & Stats
+## LeetCode Contributions
 
 <div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/LeetCode_Submissions-200%2B_Problems_Solved-64FFDA?style=for-the-badge&logo=leetcode&logoColor=0a192f&labelColor=112240" alt="LeetCode Submissions Badge"/>
-  </p>
-  
+  <a href="https://leetcode.com/u/ananyakarn_kripinya/">
+    <img src="assets/leetcode-heatmap.svg" alt="LeetCode Contribution Heatmap" width="100%"/>
+  </a>
 </div>
 
 ---
@@ -145,7 +144,7 @@ Specializing in the intersection of **Cloud Infrastructure, DevOps Automation, a
 <br>
 
 ```
-Built with precision.
+Built by Ananya.
 ```
 
 </div>
