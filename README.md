@@ -100,11 +100,11 @@ Specializing in the intersection of **Cloud Infrastructure, DevOps Automation, a
 
 ```
 [Languages]          Java, Python, SQL
-[Data Structures]    Trees, Dynamic Programming, Heaps, Backtracking, Recursion
+[Data Structures]    Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Recursion, DP etc.
 [Cloud Platforms]    AWS (EC2, S3, IAM, Lambda, VPC), Azure Cost Management, GCP Billing API, Serverless
 [DevOps & Tooling]   Docker, Kubernetes, CI/CD, Git, Linux, OpenTelemetry, Redis
 [ML & AI]            Causal AI, Isolation Forest, XGBoost, Feature Engineering, Model Evaluation
-[AI Workflows]       Claude Code, Prompt Engineering, Autonomous Scaffolding
+[AI Workflows]       Claude, Prompt Engineering, Autonomous Scaffolding
 [CS Core]            Operating Systems, Computer Networks, DBMS, OOP, System Design
 ```
 
@@ -141,10 +141,5 @@ Specializing in the intersection of **Cloud Infrastructure, DevOps Automation, a
   <a href="https://github.com/kripinya"><img src="https://img.shields.io/badge/GitHub-64FFDA?style=for-the-badge&logo=github&logoColor=0a192f&labelColor=112240" alt="GitHub"/></a>
 </p>
 
-<br>
-
-```
-Built by Ananya.
-```
 
 </div>
