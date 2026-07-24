@@ -110,16 +110,6 @@ Specializing in the intersection of **Cloud Infrastructure, DevOps Automation, a
 
 ---
 
-## GitHub Contributions
-
-<div align="center">
-  <a href="https://github.com/kripinya">
-    <img src="https://ghchart.rshah.org/64ffda/kripinya" alt="GitHub Contribution Grid" width="100%"/>
-  </a>
-</div>
-
----
-
 ## LeetCode Contributions
 
 <div align="center">
