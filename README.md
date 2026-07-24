@@ -71,7 +71,7 @@ Specializing in the intersection of **Cloud Infrastructure, DevOps Automation, a
       <td><b>Multi-Cloud FinOps Dashboard</b></td>
       <td>FinOps & Billing</td>
       <td><code>AWS</code> <code>Azure</code> <code>GCP</code> <code>Flask</code></td>
-      <td><a href="https://github.com/kripinya/Multi-Cloud-Cost-Monitoring-Dashboard-Cloud-FinOps-.git">IBM Collaboration</a></td>
+      <td><a href="https://github.com/kripinya/Multi-Cloud-Cost-Monitoring-Dashboard-Cloud-FinOps-.git">IBM Collaboration</a> · <a href="https://vyayadrishti.vercel.app">Live Demo</a></td>
     </tr>
     <tr>
       <td><b>Serverless Malware Scanner</b></td>
