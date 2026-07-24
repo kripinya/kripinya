@@ -1,8 +1,9 @@
-<!-- Header Banner -->
 <div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:0a192f&height=230&section=header&text=Ananya%20Karn&fontSize=52&fontColor=64ffda&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AI%2FML%20Researcher&descSize=18&descAlignY=55&descColor=8892b0&animation=fadeIn)
-
+  <h1>Ananya Karn</h1>
+  <h3>Cloud & DevOps Engineer | AI/ML Researcher</h3>
+  <p>
+    <a href="https://kripinya.github.io/kripinya/"><strong>View Live Portfolio</strong></a>
+  </p>
 </div>
 
 <br>
@@ -150,6 +151,3 @@ Built with precision.
 ```
 
 </div>
-
-<!-- Footer Banner -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:0a192f&height=120&section=footer)
