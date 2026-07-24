@@ -16,7 +16,7 @@ Final-year **B.Tech Computer Science (Cloud Computing & Virtualization Technolog
 
 Specializing in the intersection of **Cloud Infrastructure, DevOps Automation, and Applied Machine Learning (AI/ML)**. Published researcher in aerospace ML (*IEEE ICADS 2026*). Currently collaborating with **IBM** on a Multi-Cloud FinOps platform, with prior experience as an Analytics Intern at **G Smart Investor LLP**.
 
-* **Primary Stack**: Java, Python, AWS, DevOps, Docker, Kubernetes, SQL, Causal AI/ML, Linux
+* **Primary Stack**: Java, Python, AWS, Docker, Kubernetes, SQL, AI/ML etc.
 
 ---
 
