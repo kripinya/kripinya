@@ -104,7 +104,7 @@ Specializing in the intersection of **Cloud Infrastructure, DevOps Automation, a
 [Cloud Platforms]    AWS (EC2, S3, IAM, Lambda, VPC), Azure Cost Management, GCP Billing API, Serverless
 [DevOps & Tooling]   Docker, Kubernetes, CI/CD, Git, Linux, OpenTelemetry, Redis
 [ML & AI]            Causal AI, Isolation Forest, XGBoost, Feature Engineering, Model Evaluation
-[AI Workflows]       Claude, Prompt Engineering, Autonomous Scaffolding
+[AI Workflows]       Claude, Prompt Engineering
 [CS Core]            Operating Systems, Computer Networks, DBMS, OOP, System Design
 ```
 
